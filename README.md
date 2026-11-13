@@ -1,6 +1,6 @@
 # 🧩 LeetCode Solutions in Java
 
-My solutions to **139+ LeetCode problems**, written in **Java** and synced automatically from [my LeetCode profile](https://leetcode.com/sonuphogat).
+My solutions to **139+ LeetCode problems**, written in **Java** and synced automatically from [my LeetCode profile](https://leetcode.com/u/sonuphogat0015/).
 
 Each folder contains the problem statement (`README.md`) and my accepted solution.
 
